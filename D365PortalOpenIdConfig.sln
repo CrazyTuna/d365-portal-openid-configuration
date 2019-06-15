@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365PortalOpenIdConfig", "D365PortalOpenIdConfig\D365PortalOpenIdConfig.csproj", "{EF2834D4-8030-4B36-824E-C2B7DF74F738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2834D4-8030-4B36-824E-C2B7DF74F738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2834D4-8030-4B36-824E-C2B7DF74F738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2834D4-8030-4B36-824E-C2B7DF74F738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2834D4-8030-4B36-824E-C2B7DF74F738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16DFD346-99C9-4C91-9FD3-F6CFDFA46642}
+	EndGlobalSection
+EndGlobal
